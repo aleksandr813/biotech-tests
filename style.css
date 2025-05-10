@@ -40,16 +40,6 @@ button {
   font-size: 14px;
 }
 
-#menu {
-  max-width: 600px;
-  margin: 0 auto;
-  text-align: center;
-}
-ul {
-  display: inline-block;
-  text-align: left;
-}
-
 .welcome-container {
   display: flex;
   justify-content: center;
@@ -101,4 +91,14 @@ ul {
 
 .start-button:hover {
   background-color: #45a049;
+}
+
+#menu {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  text-align: left;
 }
